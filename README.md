@@ -1,1 +1,1 @@
-# CODSOFT
+Web development project
